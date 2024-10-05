@@ -8,6 +8,7 @@ public class NgPaymentApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(NgPaymentApplication.class, args);
+		System.out.println("Application Started");
 	}
 
 }
